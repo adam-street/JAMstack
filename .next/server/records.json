@@ -1,0 +1,75 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/about.js": 0,
+      "multi private-next-pages/index.js": 1,
+      "multi private-next-pages/p/[id].js": 2,
+      "multi next/dist/pages/_app": 3,
+      "multi next/dist/pages/_error": 4,
+      "multi next/dist/pages/_document": 5
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\_app.js": 0,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\_document.js": 1,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\_error.js": 2,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\about.js": 3,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\index.js": 4,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\p\\[id].js": 5,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\_app.js": 6,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\_document.js": 7,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\_error.js": 8,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\about.js": 9,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\index.js": 10,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\p\\[id].js": 11,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\_app.js": 0,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\_document.js": 1,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\_error.js": 2,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\about.js": 3,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\index.js": 4,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\p\\[id].js": 5,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\_app.js": 6,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\_document.js": 7,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\_error.js": 8,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\about.js": 9,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\index.js": 10,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\p\\[id].js": 11,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\_app.js": 0,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\_document.js": 1,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\_error.js": 2,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\about.js": 3,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\index.js": 4,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\p\\[id].js": 5,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\_app.js": 6,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\_document.js": 7,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\_error.js": 8,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\about.js": 9,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\index.js": 10,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\p\\[id].js": 11,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\_app.js": 0,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\_document.js": 1,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\_error.js": 2,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\about.js": 3,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\index.js": 4,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\p\\[id].js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}

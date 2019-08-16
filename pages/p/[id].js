@@ -4,22 +4,6 @@ import Layout from '../../components/layout';
 
 const Post = props => (
   <Layout>
-    <h1>{props.show.name}</h1>
-    <p>{props.show.summary.replace(/<[/]?p>/g, '')}</p>
-    <img src={props.show.image.medium} />
-    <div className="markdown">
-      <Markdown
-        source={`
-This is our blog post.
-Yes. We can have a [link](/link).
-And we can have a title as well.
-
-### This is a title
-
-And here's the content.
-      `}
-      />
-    </div>
     <style jsx global>{`
         .markdown {
           font-family: 'Arial';
@@ -42,15 +26,5 @@ And here's the content.
       `}</style>
   </Layout>
 );
-
-Post.getInitialProps = async function (context) {
-  const { id } = context.query;
-  const res = await fetch(`https://api.tvmaze.com/shows/${id}`);
-  const show = await res.json();
-
-  console.log(`Fetched show: ${show.name}`);
-
-  return { show };
-};
 
 export default Post;

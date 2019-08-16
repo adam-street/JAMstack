@@ -1,0 +1,59 @@
+{
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\_app.js": 3,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\_error.js": 4,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\about.js": 5,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\index.js": 6,
+      "static\\iBe4quqVFzjr0Fv1guDsB\\pages\\p\\[id].js": 7,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\_app.js": 8,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\_error.js": 9,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\about.js": 10,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\index.js": 11,
+      "static\\EfSW_d1CQ0ROHnEZo4QnB\\pages\\p\\[id].js": 12,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\_app.js": 3,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\_error.js": 4,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\about.js": 5,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\index.js": 6,
+      "static\\6HmzWZxoJ6sLUkDeBl3HQ\\pages\\p\\[id].js": 7,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\_app.js": 8,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\_error.js": 9,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\about.js": 10,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\index.js": 11,
+      "static\\MmOL9NTAM_0akgftnMkge\\pages\\p\\[id].js": 12,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\_app.js": 3,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\_error.js": 4,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\about.js": 5,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\index.js": 6,
+      "static\\eIfblBpNdxptZRuleZ0yg\\pages\\p\\[id].js": 7,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\_app.js": 8,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\_error.js": 9,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\about.js": 10,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\index.js": 11,
+      "static\\2BOfF8Yd5Uf7zP9BWebtx\\pages\\p\\[id].js": 12,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\_app.js": 3,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\_error.js": 4,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\about.js": 5,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\index.js": 6,
+      "static\\tBe5fakJyG2FMjZSRoPBa\\pages\\p\\[id].js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
